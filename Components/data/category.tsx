@@ -29,4 +29,9 @@ export default[
         name:'Banks',
         icon:'/Banks.svg'
     },
+    {
+        id:7,
+        name:'Menu',
+        icon:'/Menu.svg'
+    },
 ]
