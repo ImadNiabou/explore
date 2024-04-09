@@ -7,7 +7,7 @@ const PlaceList = ({ placeList }: any) => {
   const [selectedPlace, setSelectedPlace] = useState<any>([]);
   return (
     <div className="relative px-[10px] md:px-[120px] mt-7 z-10">
-      <h2 className="text-[20px] font-semibold text-white py-4">
+      <h2 className="text-[20px] font-semibold text-[#02356B] py-4">
         Search Results
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
